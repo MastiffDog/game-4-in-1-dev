@@ -1,0 +1,105 @@
+body {
+    background: url("img/back_1.jpg");
+    background-size: cover;
+}
+.ava1 {
+    width: 200px;
+    height: 200px;
+}
+.ava2 {
+    width: 200px;
+    height: 200px;
+}
+.ava1_medium {
+    width: 150px;
+    height: 150px;
+}
+.ava2_medium {
+    width: 150px;
+    height: 150px;
+}
+.ava1_small {
+    width: 80px;
+    height: 80px;
+   }
+.ava2_small {
+    width: 80px;
+    height: 80px;
+}
+.ava1_win {
+    width:400px;
+    height: 400px;
+    margin: 40px;
+}
+.ava2_win {
+    width: 400px;
+    height: 400px;
+    margin: 40px;
+}
+.nobody_ava_win {
+    width: 400px;
+    height: 400px;
+    margin: 40px;
+}
+
+.Game_name {
+    padding-left: 85px;
+}
+.player_1_green {
+    color: green;
+}
+
+.player_1_red {
+    color: red;
+}
+.player_2_green {
+    color: green;
+}
+
+.player_2_red {
+    color: red;
+}
+.chip_ava {
+    padding: 0px;
+    margin: 5px;
+    width: 75px;
+    height: 75px;
+}
+
+.vert {
+    width: 90px;
+    background: darkgray;
+    background-size: cover;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.start {
+    color: black;
+    text-align: center;
+    position: center;
+}
+.btn {
+    width: 200px;
+    margin: 20px;
+}
+.gdun_win {
+    border: 2px solid green;
+    background: cornflowerblue;
+    border-radius: 10px;
+    margin-top:20px;
+}
+.cat_win {
+    border: 2px solid green;
+    background: coral;
+    border-radius: 10px;
+    margin-top:20px;
+}
+.nobody_win {
+    border: 2px solid black;
+    background: cornflowerblue;
+    border-radius: 10px;
+    margin-top:20px;
+}
+
